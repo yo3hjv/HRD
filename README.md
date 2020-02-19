@@ -1,6 +1,4 @@
-# HRD
-HamRadioDeluxe last free edition
-
+# HRD Ham Radio Deluxe - 5.24.0.38 Edition (Last free edition for non-commercial ham use)
 
 IMPORTANT: Before commencing using this Product, carefully read the following terms and conditions which have been accepted by your company ("Licensee").
 
